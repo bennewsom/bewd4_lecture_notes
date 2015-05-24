@@ -21,7 +21,7 @@ CTO - www.ureferjobs.com
 
 ##Introductions
 
-Your course producer can help you with this.
+Introduction to your instructor, teaching assistanct and supporting staff.
 
 ---
 
