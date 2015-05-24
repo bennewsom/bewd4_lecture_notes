@@ -13,7 +13,7 @@ See "How do I use GitHub" below for instructions.
 
 ##How Do I Submit Homework?
 
-Go to the [homework repository](https://github.com/ga-students/BEWD_SYD_3_Homework) and follow the instructions there.
+Go to the [homework repository](https://github.com/shirren/BEWD_SYD_4_Homework) and follow the instructions there.
 
 ###What's in a lesson folder?
 
@@ -30,9 +30,9 @@ Each lesson folder contains
 
 In order to pass this course General Assembly students must:
 
-*	Complete and submit 80% of all course homework assignments. 
+*	Complete and submit 80% of all course homework assignments.
 
-*	Complete and submit the course project (which may include a presentation), earning 	proficiency. See [Project Requirements](Final_Project/final_project_requirements.md). 
+*	Complete and submit the course project (which may include a presentation), earning 	proficiency. See [Project Requirements](Final_Project/final_project_requirements.md).
 
 
 ##TERMINOLOGY
@@ -55,12 +55,12 @@ In order to pass this course General Assembly students must:
 
 ## How do I use GitHub?
 
-During the first lesson, you should make a copy of this repo for your own personal use (fork and then clone the repo). 
+During the first lesson, you should make a copy of this repo for your own personal use (fork and then clone the repo).
 
 From the terminal, clone by typing:
 
 ```bash
-git clone https://github.com/<YOUR USERNAME>/BEWD_SYD_3.git
+git clone https://github.com/<YOUR USERNAME>/bewd4_lecture_notes.git
 ```
 
 In addition, you should create a link to the instructor's copy on GitHub (add an upstream remote) so that you can download the latest version of your materials.
@@ -68,7 +68,7 @@ In addition, you should create a link to the instructor's copy on GitHub (add an
 From the terminal, add an upstream remote by typing:
 
 ```bash
-git remote add upstream https://github.com/ga-students/BEWD_SYD_3.git 
+git remote add upstream https://github.com/shirren/bewd4_lecture_notes.git
 ```
 
 Verify you added both remotes by typing:
@@ -81,20 +81,20 @@ We know it takes time to get familiar with GitHub so here are a few quick tips:
 
 ###How Do I Get Files From GitHub?
 
-For each lesson the instructor will post slides, exercises and, solution files. To get these files, __pull__ (download) them from the instructor's repository (upstream). 
+For each lesson the instructor will post slides, exercises and, solution files. To get these files, __pull__ (download) them from the instructor's repository (upstream).
 
-From the terminal type: 
+From the terminal type:
 (make sure you are in the correct directory)
 
 ```bash
 git pull upstream master
 ```
-	
+
 ###How Do I Post Files To My Forked Repository on GitHub?
 
-Yes, you may have your files locally on your computer but consider pushing them to the cloud. Here are some benefits. 
+Yes, you may have your files locally on your computer but consider pushing them to the cloud. Here are some benefits.
 
-*	Easily share your homework with the instructional team for grading. 
+*	Easily share your homework with the instructional team for grading.
 *	Share your files with your teammates.
 
 To __push__ files to GitHub:
@@ -119,9 +119,9 @@ See this [link](https://help.github.com/articles/fork-a-repo) for more detailed 
 
 ###How Do I Post Files To GitHub?
 
-Yes, you may have your files locally on your computer but consider pushing them to the cloud. Here are some benefits. 
+Yes, you may have your files locally on your computer but consider pushing them to the cloud. Here are some benefits.
 
-*	Easily share your homework with the instructional team for grading. 
+*	Easily share your homework with the instructional team for grading.
 *	Share your files with your teammates.
 
 To __push__ files to GitHub:
@@ -147,7 +147,7 @@ See this [link](https://help.github.com/articles/fork-a-repo) for more detailed 
 
 
 
-	
+
 
 
 
