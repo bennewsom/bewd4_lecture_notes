@@ -30,11 +30,10 @@ Introduction to your instructor, teaching assistanct and supporting staff.
 
 During this course we will learn (at a high level):
 
-* Command Line / Terminal
-* Git and GitHub
+* How developers work
 * Ruby programming language
 * Rails web application framework
-* (Basic) Database Modeling
+* Database Modeling
 
 
 To pass the course you will need to:
@@ -48,7 +47,7 @@ To pass the course you will need to:
 * What you will get from us
   *   In class labs
   *   Homework
-  *   Slides / student handouts available in GitHub
+  *   Slides / student handouts available on GitHub
   *   Instructor & TAs!
 
 ---
@@ -67,7 +66,7 @@ Let's define a few terms:
 
 * _Web Development_ -> apps built for the web
 * _Front-End Development_ -> client / browser code (HTML, CSS, JS)
-* _Back-End Development_ -> server-side code (Ruby, C#.NET)
+* _Back-End Development_ -> server-side code (Ruby, Python, Scala)
 
 ---
 
@@ -105,7 +104,7 @@ For Macs:
 For Windows:
 
 * Open the "Command Prompt" application
-* For a better experience, try "Console" (http://sourceforge.net/projects/console/)
+* For a better experience, try "Windows Powershell"
 
 ---
 
