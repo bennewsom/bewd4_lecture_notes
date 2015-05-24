@@ -12,7 +12,7 @@
 
 ####Task Instructions
 
-- Follow the instructions in the Homework repository: https://github.com/shirren/BEWD_SYD_4_homework
+- Fork the Homework repository: https://github.com/shirren/BEWD_SYD_4_homework
 - Clone the new repository to your computer
 - In your personal folder that you created, add a .txt file named blog and type your name and the URL to your blog
 - Commit your changes
