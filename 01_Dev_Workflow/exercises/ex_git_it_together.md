@@ -6,7 +6,7 @@
 | | |
 | ------------- |:-------------|
 | __Topics__ | bash commands, terminal, git, GitHub|
-| __Description__| Practice using Git and submit a pull request.|
+| __Description__| Practice using Git and Github.|
 
 
 
