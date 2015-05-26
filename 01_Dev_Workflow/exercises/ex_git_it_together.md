@@ -12,9 +12,10 @@
 
 ####Task Instructions
 
-- Fork the Homework repository: https://github.com/shirren/BEWD_SYD_4_homework
+- Register a new account in Github if you don't already have one
+- Create a new repository in Github, named bewd4
 - Clone the new repository to your computer
+  - git clone your repositry
 - In your personal folder that you created, add a .txt file named blog and type your name and the URL to your blog
 - Commit your changes
-- Push them to your origin repository
-- Submit a pull request for your instructor to access those changes
+- Push them to your repository
