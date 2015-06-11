@@ -17,7 +17,7 @@
 ###Method Scope
 
 <pre><code>
-	def SuperHero
+	class SuperHero
 		def fly
       "Here we go!"
     end
