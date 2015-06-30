@@ -1,5 +1,3 @@
-![GeneralAssemb.ly](http://studio.generalassemb.ly/GA_Slide_Assets/Exercise_icon_md.png)
-
 Time to review. You now have all the necessary knowledge to build a small Rails app. Let's build!
 
 #Ritly
@@ -35,7 +33,6 @@ Here are a few hints.
 
 ```ruby
 		Ritly::Application.routes.draw do
-			root "home#index"
 			resources :urls #TODO: restrict this to just :create, :new and :show
 
 			get '/:code', to: 'urls#redirectors'
@@ -90,8 +87,3 @@ __Bonus__
 Remember, Google is your friend!
 
 Happy coding :)
-
-
-
-
-
