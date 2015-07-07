@@ -72,7 +72,6 @@ For now City times is only interested in linking to other news sources instead o
 
 *	The front page welcomes visitors "Welcome to Rewsly" and list all titles in the stories table.
 *	Visitors can view a story's upvotes, category and link to more details by clicking on the title from the front page.
-*	Visitors can search for a specific story by title and category from the front page.
 *	Visitors can add stories to the database if all fields are present.
 	*	Prevent visitors from saving a record if it has errors.
 
